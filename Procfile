@@ -1,1 +1,1 @@
-web: superset runserver -p 5000
+web: superset runserver

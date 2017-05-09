@@ -8,6 +8,9 @@
     "papertrail"
   ],
   "buildpacks": [
+	{
+	  "url": "heroku/java"
+	},
     {
       "url": "heroku/python"
     }

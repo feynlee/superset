@@ -5,3 +5,4 @@ PyAthenaJDBC
 sqlalchemy-redshift
 psycopg2
 pyhive
+awscli
